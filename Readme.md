@@ -1,4 +1,4 @@
-// ...existing code...
+
 # SumitPortfolio
 
 A modern, responsive personal portfolio built with Vite, React, TypeScript, and Tailwind CSS. This repository contains the source for a minimal, fast, and easy-to-customize portfolio site to showcase experience, projects, skills, and contact information.
