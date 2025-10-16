@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { Instagram, Linkedin, Mail, Menu, X } from "lucide-react";
+import { Menu, X } from "lucide-react";
 
 const navItems = [
   { label: "About", href: "#about" },
