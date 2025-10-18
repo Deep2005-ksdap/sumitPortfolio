@@ -46,7 +46,7 @@ const Contact = () => {
               <BadgeCheck className="size-4 text-[#143367] " />{" "}
               <a
                 className="hover:underline"
-                href="https://www.instagram.com"
+                href="https://www.instagram.com/_sumit_chaudhary_29?igsh=YXY0ZXNwMGYxcHZh"
                 target="_blank"
                 rel="noreferrer"
               >
