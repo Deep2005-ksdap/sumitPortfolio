@@ -15,8 +15,8 @@ export default function Navbar() {
   const [menuOpen, setMenuOpen] = useState(false);
 
   return (
-    <header className="sticky top-0 z-50 border-b border-border/60 bg-white/80 backdrop-blur-md dark:bg-background/70">
-      <div className="container flex h-16 items-center justify-between">
+    <header className="sticky flex justify-center top-0 z-50 border-b border-border/60 bg-white/80 backdrop-blur-md dark:bg-background/70">
+      <div className="container w-[95%] flex h-16 items-center justify-between">
         {/* Logo */}
         <div className="font-extrabold tracking-tight text-xl cursor-pointer">
           <span className="text-[#143367] ">Sumit</span>{" "}
